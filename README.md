@@ -1,1 +1,3 @@
-# projectx
+# Prostate Cancer Prediction
+
+##### This project aims to develop a machine learning model to predict the presence and progression of prostate cancer. By analyzing patient data, including demographic information, clinical measurements, and biopsy results, the model seeks to identify patterns and risk factors associated with prostate cancer. The dataset includes features such as age, PSA levels, prostate volume, and Gleason scores. The goal is to create an accurate and reliable tool for early detection and prognosis, aiding healthcare professionals in making informed decisions about patient care and treatment strategies.
